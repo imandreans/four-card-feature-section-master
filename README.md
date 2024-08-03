@@ -29,14 +29,6 @@ Users should be able to:
 
 ![](FireShot Capture 007 - Frontend Mentor - Four card feature section - imandreans.github.io.png)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it.
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
@@ -68,4 +60,3 @@ Experiment on the grid layout features.
 - Website - [Andrean](https://portfolio-gamma-three-44.vercel.app/)
 - Frontend Mentor - [@imandreans](https://www.frontendmentor.io/profile/imandreans)
 - Twitter - [@imandreans](https://www.twitter.com/imandreans)
-  **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
